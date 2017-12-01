@@ -1,0 +1,27 @@
+header {
+    background-color: darkgray;
+    background-size: cover; 
+    height: 10vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+footer {
+    background-color: black;
+    height: 15vh;
+    width: 66%;
+    margin: 0 auto;
+    
+}
+div {
+    width: 66%;
+    height: 640px;
+    background: white;
+    text-align: center;
+    margin: auto;   
+}
+   
+body {
+    background-color: lightgray;
+}
